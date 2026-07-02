@@ -242,10 +242,8 @@ If you found this project useful,
 
 ---
 # screnshorts
-<img width="802" height="640" alt="Screenshot 2026-07-02 210840" src="https://github.com/user-attachments/assets/ffb6794b-3842-443c-be1f-9db5ccfa4a9e" />
+<img width="1920" height="1200" alt="Screenshot 2026-07-02 210910" src="https://github.com/user-attachments/assets/ab86149b-8b22-4d0e-a9d3-d940ec56ddd5" />
 
-
-![Uploading Screenshot 2026-07-02 210910.png…]()
 
 # 👨‍💻 Author
 
